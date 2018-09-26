@@ -12,10 +12,12 @@
 - Reliability and Dependability
     - Do what you say you're going to. Be around for your team. Be on time to
       meetings. Speak up as soon as you think you might not be able to.
+- I find that the strongest and most fulfilling work comes from collaboration.
+    - A remote first team does need to have more initiative for working together
 
 
 ## My Northstar Values
-- Seeing people grow, learn, be successful, and find joy
+- Seeing people grow, learn, succeed, and find joy
 - The compounding awesomeness of continually fixing small things*
     - Especially powerful at a small company - each of us has an immense impact
 
