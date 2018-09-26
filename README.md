@@ -22,13 +22,16 @@
     - Especially powerful at a small company - each of us has an immense impact
 
 
-## Idiosyncrasies
-- I believe busy is a bug, not a feature.
+## Idiosyncrasies/Quirks/aka "I'm a human"
+- I believe busy is a bug, not a feature. I know I can come across scattered 
+  sometimes and am aspiring to improve.
 - I try not to slack outside of 9-5. If I haven't left the office yet at 5pm,
   I'm probably running late. If I do send you a message outside your working
   hours, I 100% don't expect you to respond til your regular hours start back up
   again (though DevOps' "regular hours" do include some evening and weekend
   check-ins).
+- I'm pretty obviously [yellow](https://larahogan.me/blog/leadership-style-colors/) 
+  and aspire to be more blue.
 
 
 
