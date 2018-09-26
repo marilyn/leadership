@@ -24,14 +24,18 @@
 
 ## Idiosyncrasies/Quirks/aka "I'm a human"
 - I believe busy is a bug, not a feature. I know I can come across scattered 
-  sometimes and am aspiring to improve.
+  sometimes and I'd rather not! Thanks for encouraging me to take a breath.
 - I try not to slack outside of 9-5. If I haven't left the office yet at 5pm,
   I'm probably running late. If I do send you a message outside your working
   hours, I 100% don't expect you to respond til your regular hours start back up
   again (though DevOps' "regular hours" do include some evening and weekend
   check-ins).
-- I'm pretty obviously [yellow](https://larahogan.me/blog/leadership-style-colors/) 
-  and aspire to be more blue.
+- You are free to contact _me_ at any time. If it's urgent, I'll respond quite 
+  quickly, or as quickly as I humanly can. If I receive a message from you outside 
+  of my working hours and it doesn't appear urgent, I'll follow up with you when 
+  I'm back at work.
+- I'm pretty obviously [yellow](https://larahogan.me/blog/leadership-style-colors/)
+  and strive to be more blue.
 
 
 
