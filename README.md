@@ -1,4 +1,4 @@
-## Expectations
+## My Expectations of You and Our Working Relationship
 - Proactive communication
     - Ask questions, be clear about problems, leave a paper trail
 - We will practice the art of giving each other feedback
@@ -21,6 +21,16 @@
 - The compounding awesomeness of continually fixing small things*
     - Especially powerful at a small company - each of us has an immense impact
 
+## What You Can Expect Of Me
+- Strong belief in 1:1s.
+    - Occasionally travel and vacation will lead to shuffling of the schedule. I 
+      will do this with some notice and am always glad to consider if you'd like 
+      to propose a better time in general or as a one-off.
+- All five things I listed as expectations of you above, I also expect of myself
+  to always strive for excellence in them. The two I struggle with the most are 
+  punctuality (I apologize in advance for my frequent 5 minutes late) and giving
+  critical [feedback](https://www.youtube.com/watch?v=4yODalLQ2lM).
+
 
 ## Idiosyncrasies/Quirks/aka "I'm a human"
 - I believe busy is a bug, not a feature. I know I can come across scattered 
@@ -39,4 +49,4 @@
 
 
 
-\* Stolen unabashedly from Rands
+\* Stolen unabashedly from [Rands](https://www.youtube.com/watch?v=m-2BFuYUjmY)
